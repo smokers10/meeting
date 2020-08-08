@@ -1,0 +1,15 @@
+.logo{width:100%;}
+.nav li a{color:#333;}
+.profile-info,.detail-info-title{font-weight:bold;}
+.profile-info-row,.detail-info-row{margin-top:13px;}
+textarea{resize:vertical;}
+.pagination{margin-right:10px;}
+.pagination li a{cursor:pointer;}
+.search-head-outer{padding:0px;}
+.search-head{width:100%;margin-bottom:10px;}
+tr td a{cursor:pointer; color:#333;}
+.table-responsive{overflow-y:scroll;}
+.table-data{height:300px;}
+.table-data-modal{height:200px;}
+.top-operation{margin:0px;padding-bottom:0px;padding-top:0px;}
+.separator{height:2px;background:#eeeeee}
